@@ -1,7 +1,8 @@
 var chalk = require('chalk');
 var mongoose = require( 'mongoose' );
 
-var dbURI = 'mongodb://localhost/MEAN';
+//var dbURI = 'mongodb://localhost/MEAN';
+var dbURI = 'mongodb://santhosh:santhosh@ds137141.mlab.com:37141/employee_edu';
 
 mongoose.connect(dbURI);
 
