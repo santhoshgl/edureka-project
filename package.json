@@ -1,7 +1,7 @@
 {
-  "name": "mean-application",
+  "name": "edureka-project-application",
   "version": "1.0.0",
-  "description": "edureka! Mean Application",
+  "description": "edureka! project Application",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
